@@ -1,24 +1,18 @@
+<h1 align="center">
+  <img src="assets/logo.svg" width="36" height="36" alt=""> Job Radar
+</h1>
+
 <p align="center">
-  <img src="assets/logo.svg" width="112" alt="Job Radar 로고 — 레이더와 북마크">
+  <strong>채용 페이지 탐색은 줄이고, 나에게 맞는 공고에 집중하세요.</strong><br>
+  기업 채용 공고를 모아 직무·경력 조건에 맞춰 Notion에 정리하는 Claude Code 플러그인.
 </p>
 
-<h1 align="center">Job Radar</h1>
-
 <p align="center">
-  <em>찾는 건 공고가 아니라, 나에게 맞는 다음 기회.</em>
+  <img src="assets/hero.svg" width="880" alt="Less noise. More signal. 기업 채용 페이지에서 수집하고, 직무와 경력을 확인한 뒤, Notion에 저장하는 흐름을 표현한 그래픽입니다.">
 </p>
 
 <p align="center">
   <img src="assets/badges.svg" width="484" alt="Claude Code 플러그인 · Python 3.11 이상 · MCP 도구 4개 · MIT 라이선스">
-</p>
-
-<p align="center">
-  <img src="assets/hero.svg" width="880" alt="기업 채용 페이지에서 공고를 모으고, 직무와 경력으로 걸러, Notion에 정리하는 Job Radar. 작동 과정을 표현한 컨셉 일러스트입니다.">
-</p>
-
-<p align="center">
-  <strong>흩어진 채용 공고를 모아, 나에게 맞는 공고만 Notion에.</strong><br>
-  <sub>기업 채용 페이지 수집 · 직무와 경력 필터링 · 중복 확인 · 마감 공고 정리</sub>
 </p>
 
 <p align="center">

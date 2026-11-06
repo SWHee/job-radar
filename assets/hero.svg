@@ -1,42 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="600" viewBox="0 0 1280 600" role="img" aria-labelledby="title desc">
-  <title id="title">Your next role. Within reach.</title>
-  <desc id="desc">Job Radar collects company job postings, filters them with Claude, and organizes matching roles in Notion. Concept illustration, not a product screenshot.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+  <title id="title">Less noise. More signal.</title>
+  <desc id="desc">Job Radar: collect career postings, match your role and experience, and save to Notion. A diagram of the workflow, not an app screenshot.</desc>
   <defs>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0v32" fill="none" stroke="#183e35" stroke-opacity=".05"/></pattern>
-    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9cbf75" stop-opacity=".4"/><stop offset="1" stop-color="#9cbf75" stop-opacity="0"/></linearGradient>
+    <style>
+      .sans{font-family:Arial,Helvetica,sans-serif}
+      .mono{font-family:Menlo,Consolas,monospace}
+    </style>
   </defs>
-  <rect width="1280" height="600" rx="24" fill="#f4f1e7"/>
-  <rect width="1280" height="600" rx="24" fill="url(#grid)"/>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <rect x="64" y="56" width="130" height="30" rx="15" fill="#183e35"/>
-    <text x="129" y="76" font-size="12" font-weight="700" letter-spacing="2" text-anchor="middle" fill="#f4f1e7">JOB RADAR</text>
-    <text x="64" y="187" font-size="68" font-weight="700" letter-spacing="-3" fill="#1c2924">Your next role.</text>
-    <text x="64" y="263" font-size="68" font-weight="700" letter-spacing="-3" fill="#49634c">Within reach.</text>
-    <text x="67" y="315" font-size="20" fill="#5e6960">Less tab-hopping. A clearer job search.</text>
-    <path d="M66 365h420" stroke="#183e35" stroke-opacity=".18"/>
-    <text x="67" y="410" font-size="16" font-weight="700" fill="#183e35">01</text>
-    <text x="104" y="410" font-size="19" fill="#1c2924">Collect from company career pages.</text>
-    <text x="67" y="450" font-size="16" font-weight="700" fill="#183e35">02</text>
-    <text x="104" y="450" font-size="19" fill="#1c2924">Filter by role and experience.</text>
-    <text x="67" y="490" font-size="16" font-weight="700" fill="#183e35">03</text>
-    <text x="104" y="490" font-size="19" fill="#1c2924">Keep matching roles in Notion.</text>
-    <g transform="translate(936 273)">
-      <circle r="182" fill="#e9edde" stroke="#183e35" stroke-opacity=".14"/>
-      <g fill="none" stroke="#183e35" stroke-opacity=".17"><circle r="134"/><circle r="86"/><circle r="38"/><path d="M-182 0h364M0-182v364M-129-129l258 258M-129 129l258-258"/></g>
-      <path d="M0 0V-182a182 182 0 0 1 158 91Z" fill="url(#sweep)"/>
-      <path d="m0 0 158-91" stroke="#49634c" stroke-width="2"/>
-      <circle r="6" fill="#183e35"/>
-      <circle cx="91" cy="-53" r="14" fill="#183e35" fill-opacity=".1"/>
-      <circle cx="91" cy="-53" r="6" fill="#183e35"/>
-      <circle cx="-91" cy="-96" r="5" fill="#7e9d65"/>
-      <circle cx="-68" cy="94" r="5" fill="#7e9d65"/>
-      <circle cx="94" cy="87" r="4" fill="#7e9d65"/>
-    </g>
-    <rect x="722" y="438" width="420" height="90" rx="16" fill="#183e35"/>
-    <rect x="744" y="459" width="48" height="48" rx="12" fill="#c2e5a4"/>
-    <path d="m758 483 7 7 14-17" fill="none" stroke="#183e35" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="810" y="475" font-size="16" font-weight="700" fill="#f4f1e7">From career pages to your shortlist.</text>
-    <text x="810" y="499" font-size="14" fill="#b7cabb">Claude Code + MCP + Notion</text>
-    <text x="64" y="558" font-size="11" letter-spacing="1.5" fill="#7d867b">A PERSONAL JOB-SEARCH WORKFLOW</text>
+  <rect width="1280" height="460" rx="20" fill="#090b10"/>
+  <path d="M672 0v460" stroke="#252a36"/>
+  <g class="sans">
+    <rect x="54" y="45" width="7" height="7" fill="#2563eb"/>
+    <text x="72" y="54" font-size="13" font-weight="700" letter-spacing="2.4" fill="#aab5c8">YOUR PERSONAL JOB RADAR</text>
+    <text x="50" y="171" font-size="84" font-weight="700" letter-spacing="-4" fill="#fff">Less noise.</text>
+    <text x="50" y="259" font-size="84" font-weight="700" letter-spacing="-4" fill="#6c9cff">More signal.</text>
+    <text x="54" y="315" font-size="21" fill="#b2bdce">The right roles. In one place.</text>
+    <path d="M54 355h560" stroke="#252a36"/>
+    <text x="54" y="399" font-size="15" fill="#b2bdce">Claude Code</text>
+    <text x="180" y="399" font-size="15" fill="#64748b">/</text>
+    <text x="203" y="399" font-size="15" fill="#b2bdce">MCP</text>
+    <text x="258" y="399" font-size="15" fill="#64748b">/</text>
+    <text x="281" y="399" font-size="15" fill="#b2bdce">Notion</text>
+  </g>
+  <g class="mono" font-size="11" letter-spacing="2" fill="#aab5c8">
+    <text x="720" y="54">FROM OPEN TABS TO A SHORTLIST</text>
+  </g>
+  <g class="sans">
+    <rect x="720" y="91" width="504" height="82" rx="12" fill="#121620" stroke="#303746"/>
+    <text class="mono" x="744" y="139" font-size="14" fill="#aab5c8">01</text>
+    <path d="M791 111v42" stroke="#303746"/>
+    <text x="814" y="128" font-size="21" font-weight="700" fill="#fff">Collect</text>
+    <text x="814" y="151" font-size="14" fill="#aab5c8">Company career pages</text>
+    <g fill="none" stroke="#8493aa" stroke-width="1.5"><rect x="1166" y="117" width="23" height="24" rx="3"/><path d="M1171 124h13m-13 6h13m-13 6h8"/></g>
+    <path d="M972 174v22m-4-4 4 4 4-4" fill="none" stroke="#6b7b94" stroke-width="1.5"/>
+    <rect x="720" y="203" width="504" height="82" rx="12" fill="#2563eb"/>
+    <text class="mono" x="744" y="251" font-size="14" fill="#fff">02</text>
+    <path d="M791 223v42" stroke="#fff" stroke-opacity=".3"/>
+    <text x="814" y="240" font-size="21" font-weight="700" fill="#fff">Match</text>
+    <text x="814" y="263" font-size="14" fill="#fff">Your role. Your experience.</text>
+    <g fill="none" stroke="#fff" stroke-width="1.7"><circle cx="1177" cy="244" r="12"/><circle cx="1177" cy="244" r="5"/><path d="m1181 240 11-11m-4 0h4v4"/></g>
+    <path d="M972 286v22m-4-4 4 4 4-4" fill="none" stroke="#6b7b94" stroke-width="1.5"/>
+    <rect x="720" y="315" width="504" height="82" rx="12" fill="#121620" stroke="#303746"/>
+    <text class="mono" x="744" y="363" font-size="14" fill="#aab5c8">03</text>
+    <path d="M791 335v42" stroke="#303746"/>
+    <text x="814" y="352" font-size="21" font-weight="700" fill="#fff">Save</text>
+    <text x="814" y="375" font-size="14" fill="#aab5c8">A curated Notion database</text>
+    <path d="M1168 344h19v26l-9.5-6-9.5 6Z" fill="none" stroke="#8493aa" stroke-width="1.7" stroke-linejoin="round"/>
   </g>
 </svg>
