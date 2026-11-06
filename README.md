@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="assets/mark-blue.svg" width="36" height="36" alt=""> Job Radar
-</h1>
+<p align="center">
+  <img src="assets/logo-radar.svg" width="180" height="180" alt="Job Radar — 기회를 포착하는 레이더 로고">
+</p>
+
+<h1 align="center">Job Radar</h1>
 
 <p align="center">
   <strong>채용 페이지 탐색은 줄이고, 나에게 맞는 공고에 집중하세요.</strong><br>

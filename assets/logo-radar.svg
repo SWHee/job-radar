@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Job Radar</title>
+  <desc id="desc">A blue radar with concentric signal rings and a highlighted opportunity at the end of its scan.</desc>
+  <rect x="8" y="8" width="240" height="240" rx="68" fill="#0b1220"/>
+  <rect x="18" y="18" width="220" height="220" rx="59" fill="#2563eb"/>
+  <rect x="26.5" y="26.5" width="203" height="203" rx="51" fill="none" stroke="#fff" stroke-opacity=".18"/>
+  <path d="M128 128V58a70 70 0 0 1 70 70Z" fill="#fff" fill-opacity=".1"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round">
+    <path d="M128 58a70 70 0 1 0 70 70" stroke-width="7"/>
+    <path d="M128 86a42 42 0 1 0 42 42" stroke-width="7" stroke-opacity=".65"/>
+    <path d="m128 128 50-50" stroke-width="8"/>
+  </g>
+  <circle cx="128" cy="128" r="8" fill="#fff"/>
+  <circle cx="185" cy="71" r="21" fill="#2563eb"/>
+  <circle cx="185" cy="71" r="14" fill="#fff"/>
+  <circle cx="185" cy="71" r="5" fill="#2563eb"/>
+  <g fill="#fff">
+    <circle cx="128" cy="211" r="2" opacity=".65"/>
+    <circle cx="45" cy="128" r="2" opacity=".65"/>
+    <circle cx="211" cy="128" r="2" opacity=".65"/>
+  </g>
+</svg>
