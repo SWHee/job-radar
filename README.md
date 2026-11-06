@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/logo.svg" width="36" height="36" alt=""> Job Radar
+  <img src="assets/mark-blue.svg" width="36" height="36" alt=""> Job Radar
 </h1>
 
 <p align="center">
@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/hero.svg" width="880" alt="Less noise. More signal. 기업 채용 페이지에서 수집하고, 직무와 경력을 확인한 뒤, Notion에 저장하는 흐름을 표현한 그래픽입니다.">
+  <img src="assets/header-blue.svg" width="880" alt="Less noise. More signal. 기업 채용 페이지에서 수집하고, 직무와 경력을 확인한 뒤, Notion에 저장하는 흐름을 표현한 그래픽입니다.">
 </p>
 
 <p align="center">
-  <img src="assets/badges.svg" width="484" alt="Claude Code 플러그인 · Python 3.11 이상 · MCP 도구 4개 · MIT 라이선스">
+  <img src="assets/badges-slate.svg" width="484" alt="Claude Code 플러그인 · Python 3.11 이상 · MCP 도구 4개 · MIT 라이선스">
 </p>
 
 <p align="center">
