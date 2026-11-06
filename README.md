@@ -9,10 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-plugin-183e35?style=flat-square" alt="Claude Code plugin">
-  <a href="pyproject.toml"><img src="https://img.shields.io/badge/python-3.11%2B-183e35?style=flat-square" alt="Python 3.11 이상"></a>
-  <a href="server.py"><img src="https://img.shields.io/badge/MCP-4_tools-183e35?style=flat-square" alt="MCP 도구 4개"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-183e35?style=flat-square" alt="MIT License"></a>
+  <img src="assets/badges.svg" width="484" alt="Claude Code 플러그인 · Python 3.11 이상 · MCP 도구 4개 · MIT 라이선스">
 </p>
 
 <p align="center">
